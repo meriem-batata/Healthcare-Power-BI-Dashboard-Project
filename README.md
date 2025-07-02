@@ -53,7 +53,7 @@ Build an interactive dashboard that enables healthcare professionals and managem
 The data model follows a **star schema**, where fact data from `All_Data` is connected to dimension tables like `Mapping_Specialty` and `Calcul table`.  
 This enhances performance and simplifies visual filtering.
 
-![Model View](images/model_view.PNG)
+![Model View](images/Model_view.PNG)
 
 
 ---
