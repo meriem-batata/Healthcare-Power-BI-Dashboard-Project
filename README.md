@@ -97,9 +97,10 @@ This enhances performance and simplifies visual filtering.
 │       └── 🖼️ slide3.png
 │
 ├── 📁 images/
-│   ├── 🖼️ Dashboard_preview.png                 # Main dashboard screenshot
-│   ├── 🖼️ Detail_preview.png                    # Detail view screenshot
-│   └── 🖼️ Drill_Down_preview.png                # Drill-down screenshot
+│   ├── 🖼️ Dashboard_preview.PNG                 # Main dashboard screenshot
+│   ├── 🖼️ Detail_preview.PNG                    # Detail view screenshot
+│   └── 🖼️ Drill_Down_preview.PNG                # Drill-down screenshot
+│   └── 🖼️ Model_view.PNG                # Drill-down screenshot
 │ 
 📄 README.md                                 # Project documentation
 ```
