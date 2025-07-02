@@ -50,8 +50,7 @@ Build an interactive dashboard that enables healthcare professionals and managem
 
 ## 🧩 Model View – Power BI Relationships
 
-The data model follows a **star schema**, where fact data from `All_Data` is connected to dimension tables like `Mapping_Specialty` and `Calcul table`.  
-This enhances performance and simplifies visual filtering.
+The data model follows a centralized structure built around the `All_Data` table, complemented by support tables such as `Mapping_Specialty` (for grouping specialty categories) and Calculation Method (used for dynamic DAX-based measure selection).
 
 ![Model View](images/Model_view.PNG)
 
